@@ -1,0 +1,39 @@
+Assignment 12.2.2 - Explore the .NET MAUI learning path
+
+This console program is a study companion. It is not a .NET MAUI application
+and does not certify that you have completed the training.
+
+Official Microsoft Learn path:
+https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/
+
+Preparation: be familiar with C# and .NET, and use Visual Studio with the
+.NET MAUI development workload installed for the hands-on exercises.
+
+Study route (the path currently contains eight modules):
+1. Create and run a cross-platform app.
+2. Define controls using XAML.
+3. Arrange pages with layouts such as StackLayout and Grid.
+4. Connect controls to data through binding.
+5. Separate UI and business logic using an MVVM viewmodel.
+6. Reuse styles and shared resources.
+7. Navigate between pages with Shell tabs and flyouts.
+8. Store and retrieve local data with SQLite.
+
+Practice: follow the first module to create a .NET MAUI App in Visual Studio.
+Run its starter counter app, then change its label and button behavior.
+Observe how the XAML control and its C# event handler work together.
+
+Questions to answer after working through the exercises:
+- Which code is shared, and which code belongs to an individual platform?
+- How does a XAML control connect to a C# event handler?
+- What does data binding simplify?
+- Why use a viewmodel?
+- When would an app need local persistence?
+
+Suggested personal completion checklist:
+[ ] Open the learning path and review its prerequisites.
+[ ] Create and run the first MAUI app.
+[ ] Practice layouts, binding, MVVM, resources, navigation, and SQLite.
+[ ] Record your own observations and any evidence required by your instructor.
+
+Source reviewed: October 9, 2026. Training content can change.
